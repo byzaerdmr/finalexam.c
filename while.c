@@ -16,3 +16,15 @@ int main()
    printf("\nThe number of digits in an integer is : %d",count);  
     return 0;  
 }  
+/* int main(){
+ 	int n=50,i;
+ 	i=0;
+ 	while(i<=n){
+ 		
+ 		printf("%d\n",i);
+ 		i+=5;
+	 }
+
+ 	
+ 	return 0;
+ } */
