@@ -28,3 +28,15 @@ int main()
  	
  	return 0;
  } */
+/*int main(){
+ 	int n=20,i;
+ 	i=0;
+ 	while(i<=n){
+ 		if(i%7!=0)
+ 		printf("%d\n",i);
+ 		i+=2;
+	 }
+
+ 	
+ 	return 0;
+ } */
