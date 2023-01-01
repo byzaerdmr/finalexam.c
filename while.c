@@ -24,10 +24,9 @@ int main()
  		printf("%d\n",i);
  		i+=5;
 	 }
-
- 	
  	return 0;
  } */
+
 /*int main(){
  	int n=20,i;
  	i=0;
@@ -36,7 +35,20 @@ int main()
  		printf("%d\n",i);
  		i+=2;
 	 }
-
+ 	return 0;
+ } */
+/*
+int main(){
+ 	
+ 	int i,n,f=1;
+ 	printf("enter a number: ");
+ 	scanf("%d",&n);
+ 	i=1;
+ 	while(i<=n){
+ 		f=i*f;
+ 		i++;
+	 }
+ 	printf("factorial of %d: %d",n,f);
  	
  	return 0;
  } */
